@@ -1,9 +1,9 @@
 /**
  * name
  */
-public class name {
+public class State {
 
-    public name (parameters) {
+    public State () {
         
     }
 }
